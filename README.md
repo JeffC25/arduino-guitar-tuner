@@ -1,1 +1,1 @@
-# ardunio-guitar-tuner
+# arduino-guitar-tuner
